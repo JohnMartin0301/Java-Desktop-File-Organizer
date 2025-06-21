@@ -68,7 +68,7 @@ C:\Users\Name\Documents      <-- For documents
 
 ---
 
-## 📦 File Types Supported
+##📦 File Types Supported
 
 | Type     | Extensions                              |
 |----------|-----------------------------------------|
@@ -102,26 +102,26 @@ SUMMARY:
 
 ---
 
-## Demo
-# Desktop with different files:
+## Demo:
+## Desktop with different files:
 ![Screenshot 2025-06-21 151519](https://github.com/user-attachments/assets/d3ca1e82-8b9c-41ad-b638-448b3b165c7d)
 
-# Running the program:
+#@ Running the program:
 ![Screenshot (287)](https://github.com/user-attachments/assets/a8d5a6b2-20ab-4363-8915-74dd9c0b1039)
 
-# Console outputs:
+## Console outputs:
 ![Screenshot 2025-06-21 151503](https://github.com/user-attachments/assets/521e8291-f6cc-4feb-a6f8-4f06d03d9aee)
 
-# Documents folder:
+## Documents folder:
 ![Screenshot 2025-06-21 151705](https://github.com/user-attachments/assets/fbcac333-eaf2-4d87-a1ff-b68be36832c6)
 
-# Pictures folder:
+## Pictures folder:
 ![Screenshot 2025-06-21 151634](https://github.com/user-attachments/assets/c3f5c23f-a6f9-4e39-823d-5cafa7d61d53)
 
-# Music folder:
+## Music folder:
 ![Screenshot 2025-06-21 151614](https://github.com/user-attachments/assets/a45b338e-3768-4899-aa12-76221ef42aca)
 
-# Desktop (Organized/Cleaned):
+## Desktop (Organized/Cleaned):
 ![Screenshot 2025-06-21 151519](https://github.com/user-attachments/assets/debaecbd-0650-4403-91e3-df293a6d422a)
 
 
