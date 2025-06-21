@@ -1,6 +1,5 @@
 # 🗂️ Java Desktop File Organizer - Final Project for Computer Programming (First-Year Level)
-
-![Screenshot (285)](https://github.com/user-attachments/assets/eabe06e1-66d9-4266-a5cb-ad11bdbec620)
+![Program](https://github.com/user-attachments/assets/65b7c561-da72-4385-83be-90cf5c6ba94d)
 
 
 A simple Java program that automatically organizes files on your Desktop into their proper folders based on file type. It helps clean up your Desktop by moving audio, video, image, and document files into specific folders.
