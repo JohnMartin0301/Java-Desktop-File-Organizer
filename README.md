@@ -105,25 +105,26 @@ SUMMARY:
 
 ## Demo:
 ## Desktop with different files:
-![Screenshot 2025-06-21 151519](https://github.com/user-attachments/assets/d3ca1e82-8b9c-41ad-b638-448b3b165c7d)
+![Desktop](https://github.com/user-attachments/assets/ac4a7dea-c818-4fcf-a475-3d57a27e0996)
 
 ## Running the program:
-![Screenshot (287)](https://github.com/user-attachments/assets/044559c4-dbd7-44a0-815f-a157e5c67003)
+![Running the program](https://github.com/user-attachments/assets/754bfe2d-5329-46f4-916b-fa222a7f7172)
 
 ## Console outputs:
-![Screenshot 2025-06-21 151503](https://github.com/user-attachments/assets/521e8291-f6cc-4feb-a6f8-4f06d03d9aee)
+![Console outputs](https://github.com/user-attachments/assets/d735efbd-c0a8-486d-aa24-b7adf6d5920e)
 
 ## Documents folder:
-![Screenshot 2025-06-21 151705](https://github.com/user-attachments/assets/fbcac333-eaf2-4d87-a1ff-b68be36832c6)
+![Docs](https://github.com/user-attachments/assets/23c1b34d-76ce-4f9b-8f5e-1b1a32892a3b)
 
 ## Pictures folder:
-![Screenshot 2025-06-21 151634](https://github.com/user-attachments/assets/c3f5c23f-a6f9-4e39-823d-5cafa7d61d53)
+![pics](https://github.com/user-attachments/assets/2c43fff7-6bbe-4a8a-bf07-8f67a26f6c85)
 
 ## Music folder:
-![Screenshot 2025-06-21 151614](https://github.com/user-attachments/assets/a45b338e-3768-4899-aa12-76221ef42aca)
+![music](https://github.com/user-attachments/assets/c1d90850-2c4c-419b-b759-2b05b719c1e9)
 
 ## Desktop (Organized/Cleaned):
-![Screenshot 2025-06-21 151519](https://github.com/user-attachments/assets/debaecbd-0650-4403-91e3-df293a6d422a)
+![Desktop(cleaned)](https://github.com/user-attachments/assets/b2acf55b-caf1-4efa-b5eb-95662ca3abef)
+
 
 
 ## 💡 Author
